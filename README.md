@@ -22,6 +22,16 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+![1](/im/1.png)
+![2](/im/2.png)
+![3](/im/3.png)
+![4](/im/4.png)
+![5](/im/5.png)
+![6](/im/6.png)
+![7](/im/7.png)
+![8](/im/8.png)
+![9](/im/9.png)
+![10](/im/10.png)
 
 
 ## RESULT:
